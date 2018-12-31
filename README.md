@@ -19,9 +19,7 @@ The following **optional** features are implemented:
 * [ ] Using locale-specific currency and currency thousands separators.
 * [ ] Making sure the keyboard is always visible and the bill amount is always the first responder. This way the user doesn't have to tap anywhere to use this app. Just launch the app and start typing.
 
-The following **additional** features are implemented:
 
-- [ ] List anything else that you can get done to improve the app functionality!
 
 ## Video Walkthrough 
 
@@ -33,7 +31,7 @@ GIF created with [LiceCap](http://www.cockos.com/licecap/).
 
 ## Notes
 
-Describe any challenges encountered while building the app.
+The app was fairly simple, I would want to add a custom tip percentages but I don't have time to work on the iOS app right now because I have to borrow a friend's macbook and he is going away for a month.
 
 ## License
 
